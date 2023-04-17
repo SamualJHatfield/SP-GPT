@@ -1,0 +1,9 @@
+openai
+speechrecognition
+googletrans==4.0.0-rc1
+gtts
+numpy
+pydub
+ipython
+pygame
+requests
