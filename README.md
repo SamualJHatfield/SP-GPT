@@ -10,7 +10,7 @@ Please follow the instructions below to get the bot up and running:
  - First, install the most recent copy of Python from here: https://www.python.org/downloads/
  - Next, you will need your own OpenAI API key to operate the bot. This can be accquired here:  https://platform.openai.com/account/api-keys
  - From the main page of the SP-GPT github, select the green "code" box, and download the code. 
- - Navigate to the location the file was saved and identify the "interview_bot.py" file. 
+ - Navigate to the location the file was saved, unzip the file, then identify the "interview_bot.py" file. 
  - Right click on interview_bot.py, select "open in notepad" or your prefered .txt file editor (not word processor).
  - Within the code near the top under the list of "import" files, you will see a statement that says "Your OpenAI API key here." 
  - Paste your API key into this spot between the quotation marks, ensuring not to have any extra spaces or punctuations
