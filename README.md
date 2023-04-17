@@ -1,7 +1,8 @@
 # SP-GPT
 A GPT 3.5-turbo powered multi-lingual Standardized Patient. This is intended for medical students looking to practice clinical scenarios in a multi-lingual context. 
 
-The current version of this code simply labels you as "The Doctor" and the Bot as "The Patient."
+The current version of this code simply labels you as "The Doctor" and the Bot as "The Patient." Future updates will grant the bot access to a set of clinical cases to increase the accuracy of the bot. 
+Depending on feedback, GPT-4 may be necessary, although this will be more expensive. 
 It uses Google translate's gTTs for text to speech along with pygame for voice rendering. 
 Google translate is the engine for multi-lingual applications. Future updates may include the use of Google Cloud services for more accurate translations. 
 
